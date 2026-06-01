@@ -23,7 +23,7 @@ public class Main {
     public Main(int i) {
 
         // Printing to the console.
-        System.out.println("Hello 1");
+        System.out.println("Hello 1.");
 
     }
 
